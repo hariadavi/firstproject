@@ -1,0 +1,31 @@
+.container {
+    max-width: 960px;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+}
+
+.text-muted{
+    color: #bcb;
+}
+
+.text-thin{
+    font-weight: 100;
+}
+
+.top-section{
+    margin-top: 35px;
+}
+
+.top-title{
+    font-size: 40px;
+}
+
+h3,
+h4{
+    font-weight: 400;
+}
+
+hr{
+    background-color: #bcb;
+    height: 3px;
+}
